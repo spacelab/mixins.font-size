@@ -1,0 +1,9 @@
+@mixin font-size($font-size, $line-height: false) {
+  @if not $line-height {
+    font-size: $font-size / 16px + rem;
+  }
+  @else if $line-height {
+    font-size: $font-size / 16px + rem;
+    line-height: $line-height / $font-size;
+  }
+}
