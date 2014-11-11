@@ -6,13 +6,13 @@
     "Daniel Blomeyer"
   ],
   "description": "here be a description",
-  "main": "_spacelab-mixins.font-size.scss",
+  "main": "_mixins.font-size.scss",
   "keywords": [
     "spacelab",
     "css"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/comspace-dev/spacelab-mixins.font-size/",
+  "homepage": "https://github.com/spacelab/mixins.font-size/",
   "private": true,
   "ignore": [
     "**/.*",
