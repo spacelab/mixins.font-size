@@ -12,7 +12,7 @@
     "css"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/spacelab/mixins.font-size/",
+  "homepage": "https://github.com/spacelab/mixins.font-size",
   "private": true,
   "ignore": [
     "**/.*",
