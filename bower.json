@@ -22,6 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "spacelab-functions.rem": "spacelab/functions.rem"
+    "spacelab-functions.rem": "spacelab/functions.rem",
+    "spacelab-functions.strip-unit": "spacelab/functions.strip-unit"
   }
 }
